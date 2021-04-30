@@ -4,3 +4,4 @@
 
 -  [  View my **Linkedin**](https://www.linkedin.com/in/christiansendler/)  
 -   [  Read my **Blog**](https://sendler.medium.com/) 
+-   [ Let's **connect**](https://calendar.x.ai/csendler)
