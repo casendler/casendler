@@ -1,6 +1,6 @@
 ## Hi I'm Christian, welcome to my GitHub Profile 👋
 
-#### Most of my work is contributed to private repositories, but feel free to poke around!
+#### Much of my work is contributed to private repositories, but feel free to poke around!
 
 -  [  View my **Linkedin**](https://www.linkedin.com/in/christiansendler/)  
 -   [  Read my **blog**](https://sendler.medium.com/) 
